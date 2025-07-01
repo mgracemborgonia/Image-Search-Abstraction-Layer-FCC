@@ -1,0 +1,16 @@
+{
+  "name": "image_search",
+  "version": "1.0.0",
+  "description": "Image Search Abstraction Layer - FCC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
